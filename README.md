@@ -70,126 +70,24 @@ const oguzhan = {
 };
 ```
 
-I am most interested in the point where an ambitious idea becomes a real product.
-I enjoy solving difficult engineering problems, questioning weak assumptions and building systems that can continue evolving without becoming fragile.
----
-## `01 / Product Lab`
+## `01 / What I Build`
 
-<p>
-  A selection of systems I have designed and developed across security,
-  interactive products, distributed applications and platform engineering.
-  Source code for several projects remains private while they are under active development.
+<p align="center">
+  <img src="https://img.shields.io/badge/PRODUCTS-FULL--STACK_SYSTEMS-6D28D9?style=for-the-badge" alt="Full-stack systems" />
+  <img src="https://img.shields.io/badge/BLOCKCHAIN-ONCHAIN_EXPERIENCES-111827?style=for-the-badge" alt="Onchain experiences" />
+  <img src="https://img.shields.io/badge/ENGINEERING-SCALABLE_ARCHITECTURE-0F766E?style=for-the-badge" alt="Scalable architecture" />
 </p>
 
-```bash
-$ ls ./product-lab
+<p align="center">
+  I design and build complete products — from interfaces and backend systems
+  to smart contracts, infrastructure and production workflows.
+</p>
 
-security-extension/
-privacy-runtime/
-onchain-game/
-verification-platform/
-```
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 — Security Extension</h3>
-      <p>
-        A browser-native security layer that evaluates suspicious domains,
-        observes sensitive actions and turns complex risk signals into clear,
-        contextual warnings.
-      </p>
-      <p>
-        <strong>Engineering scope</strong><br />
-        Extension architecture · Risk engine · Dashboard · API · Data layer
-      </p>
-      <p>
-        <code>TypeScript</code>
-        <code>React</code>
-        <code>Manifest V3</code>
-        <code>PostgreSQL</code>
-      </p>
-      <img
-        src="https://img.shields.io/badge/PRIVATE-BUILDING-6D28D9?style=flat-square"
-        alt="Private project under development"
-      />
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>02 — Privacy Runtime</h3>
-      <p>
-        A local-first runtime for managing isolated profiles, domain context,
-        session state and configurable protection rules directly inside the browser.
-      </p>
-      <p>
-        <strong>Engineering scope</strong><br />
-        Local storage · Rules engine · Session model · Browser messaging · UX
-      </p>
-      <p>
-        <code>TypeScript</code>
-        <code>React</code>
-        <code>WXT</code>
-        <code>Chrome APIs</code>
-      </p>
-      <img
-        src="https://img.shields.io/badge/PRIVATE-CLOSED_BETA-0F766E?style=flat-square"
-        alt="Private closed beta"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 — Onchain Game</h3>
-      <p>
-        An interactive game platform combining gameplay systems, persistent
-        progression, digital ownership and verified blockchain transactions.
-      </p>
-      <p>
-        <strong>Engineering scope</strong><br />
-        Game systems · Smart contracts · Mint flow · Backend verification · UI
-      </p>
-      <p>
-        <code>TypeScript</code>
-        <code>Solidity</code>
-        <code>Rust</code>
-        <code>PostgreSQL</code>
-      </p>
-      <img
-        src="https://img.shields.io/badge/PRIVATE-IN_DEVELOPMENT-B45309?style=flat-square"
-        alt="Private project in development"
-      />
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>04 — Verification Platform</h3>
-      <p>
-        A progression platform that connects identity, social activity,
-        referrals, ownership checks and reward eligibility into one structured system.
-      </p>
-      <p>
-        <strong>Engineering scope</strong><br />
-        Authentication · OAuth · Task engine · Verification · Admin workflows
-      </p>
-      <p>
-        <code>TypeScript</code>
-        <code>Python</code>
-        <code>OAuth</code>
-        <code>PostgreSQL</code>
-      </p>
-      <img
-        src="https://img.shields.io/badge/PRIVATE-ACTIVE_DEVELOPMENT-2563EB?style=flat-square"
-        alt="Private project in active development"
-      />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-> I do not treat these as isolated demos. Each product is designed around
-> real workflows, clear boundaries and architecture that can continue evolving.
----
+<p align="center">
+  <sub>
+    Product thinking&nbsp;&nbsp;·&nbsp;&nbsp;Clean architecture&nbsp;&nbsp;·&nbsp;&nbsp;Reliable systems
+  </sub>
+</p>
 
 ## `02 / Engineering principles`
 
