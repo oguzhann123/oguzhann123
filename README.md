@@ -75,6 +75,33 @@ const oguzhan = {
 };
 ```
 
+<p align="center">
+  <a href="https://github.com/oguzhann123?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View projects"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img
+      src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img
+      src="https://img.shields.io/badge/SEND_A_MESSAGE-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Send an email"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Open to ambitious products, difficult engineering problems and meaningful collaborations.
+  </sub>
+</p>
+
 <br />
 
 <p align="center">
