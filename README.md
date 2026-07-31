@@ -71,21 +71,40 @@ const oguzhan = {
 
 ---
 
-## `> system.snapshot`
+## `> engineering.loop`
+
+<p align="center">
+  I approach software as a continuous engineering cycle rather than a one-time implementation.
+</p>
+
+```mermaid
+flowchart LR
+    A["Discover<br/>Understand the real problem"]
+    B["Design<br/>Define boundaries and architecture"]
+    C["Build<br/>Implement the smallest reliable system"]
+    D["Validate<br/>Test behavior, security and usability"]
+    E["Refine<br/>Improve through real feedback"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E -.-> A
+```
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>◈ Product Engineering</h3>
-      <sub>From early concept to production-ready software</sub>
+      <h3>◈ Product Thinking</h3>
+      <sub>Technical decisions should support real user and product needs.</sub>
     </td>
     <td width="33%" align="center">
-      <h3>⬡ Blockchain Systems</h3>
-      <sub>Onchain logic, applications and infrastructure</sub>
+      <h3>⬡ System Design</h3>
+      <sub>Clear boundaries keep complex systems understandable and maintainable.</sub>
     </td>
     <td width="33%" align="center">
-      <h3>⌁ Interactive Experiences</h3>
-      <sub>Web platforms, extensions and game systems</sub>
+      <h3>⌁ Reliable Delivery</h3>
+      <sub>Software should remain useful beyond the prototype and demo stage.</sub>
     </td>
   </tr>
 </table>
@@ -93,58 +112,50 @@ const oguzhan = {
 <br />
 
 ```text
-┌─ CURRENT SIGNAL ───────────────────────────────────────────────┐
-│                                                               │
-│  building     reliable products                               │
-│  exploring    distributed systems                             │
-│  refining     architecture and developer experience           │
-│  status       always learning                                 │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+complex idea
+     ↓
+clear problem
+     ↓
+intentional architecture
+     ↓
+tested implementation
+     ↓
+reliable product
 ```
 
 ---
 
-## `> contribution.stream`
+## `> development.activity`
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhann123&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Oguzhan Kose contribution activity"
+    width="96%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhann123&theme=tokyonight"
+    alt="Oguzhan Kose GitHub contribution overview"
   />
 </p>
 
----
-
-## `> open.connection`
-
 <p align="center">
-  <a href="https://github.com/oguzhann123?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View projects"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img
-      src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
-    />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img
-      src="https://img.shields.io/badge/SEND_A_MESSAGE-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Send an email"
-    />
-  </a>
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oguzhann123&theme=tokyonight"
+    alt="Repositories by language"
+  />
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oguzhann123&theme=tokyonight&utcOffset=3"
+    alt="Productive development time"
+  />
 </p>
 
 <p align="center">
-  <sub>Open to ambitious products, engineering challenges and meaningful collaborations.</sub>
+  <sub>
+    Private repositories may contribute to the activity timeline without exposing their source code.
+  </sub>
 </p>
 
-<br />
+
+
 
 <p align="center">
   <img
