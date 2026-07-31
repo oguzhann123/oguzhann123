@@ -83,35 +83,142 @@ const oguzhan = {
 
 ---
 
-## `> build.scope`
+## `> engineering.workspace`
+
+```text
+╭─ ENGINEERING WORKSPACE ─────────────────────────────────────────────────────╮
+│                                                                            │
+│  MODE        product engineering                                           │
+│  FOCUS       useful systems, clear architecture, reliable execution        │
+│  STANDARD    production-ready — not merely demo-ready                      │
+│  PROCESS     understand → design → build → validate → improve              │
+│                                                                            │
+╰────────────────────────────────────────────────────────────────────────────╯
+```
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
+      <br />
+      <code>01 / PRODUCT</code>
       <h3>◈ Product Engineering</h3>
       <p>
-        <sub>
-          Turning early ideas into complete, practical and production-ready
-          software products.
-        </sub>
+        Turning uncertain ideas into complete products with clear user flows,
+        practical requirements and meaningful outcomes.
       </p>
+      <p>
+        <sub>Concept → Experience → Product</sub>
+      </p>
+      <br />
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>⬡ System Architecture</h3>
+      <br />
+      <code>02 / SYSTEM</code>
+      <h3>⬡ Architecture</h3>
       <p>
-        <sub>
-          Designing clear boundaries, reliable data flows and foundations
-          built to scale.
-        </sub>
+        Designing understandable boundaries, dependable data flows and systems
+        that remain maintainable as they grow.
       </p>
+      <p>
+        <sub>Boundaries → Contracts → Infrastructure</sub>
+      </p>
+      <br />
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>⌁ Emerging Technology</h3>
+      <br />
+      <code>03 / DELIVERY</code>
+      <h3>⌁ Execution</h3>
       <p>
-        <sub>
-          Exploring blockchain, distributed systems, interactive applications
-          and new product models.
-        </sub>
+        Building, validating and refining software beyond the happy path and
+        beyond the prototype stage.
+      </p>
+      <p>
+        <sub>Implementation → Testing → Production</sub>
+      </p>
+      <br />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <strong><code>idea_to_product.pipeline</code></strong>
+</p>
+
+```mermaid
+flowchart LR
+    A["01<br/>Discover"] --> B["02<br/>Architect"]
+    B --> C["03<br/>Build"]
+    C --> D["04<br/>Validate"]
+    D --> E["05<br/>Ship"]
+    E -. "Feedback" .-> A
+```
+
+<p align="center">
+  <sub>
+    Understand the problem before choosing the technology.
+  </sub>
+</p>
+
+---
+
+## `> project.types`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>▣ Full-Stack Products</h3>
+      <p>
+        Complete user-facing platforms combining interfaces, APIs,
+        authentication, persistent data and operational workflows.
+      </p>
+      <p>
+        <code>interface</code>
+        <code>backend</code>
+        <code>database</code>
+        <code>deployment</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◇ Blockchain Systems</h3>
+      <p>
+        Applications connecting smart contracts, transactions, ownership,
+        verification and practical user experiences.
+      </p>
+      <p>
+        <code>contracts</code>
+        <code>dApps</code>
+        <code>verification</code>
+        <code>infrastructure</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◫ Browser-Native Software</h3>
+      <p>
+        Extensions built around background processes, page context,
+        local state, secure messaging and focused user interaction.
+      </p>
+      <p>
+        <code>extensions</code>
+        <code>local-first</code>
+        <code>messaging</code>
+        <code>security</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◉ Interactive Experiences</h3>
+      <p>
+        Games and participation-driven systems involving progression,
+        identity, digital assets and persistent state.
+      </p>
+      <p>
+        <code>games</code>
+        <code>identity</code>
+        <code>progression</code>
+        <code>ownership</code>
       </p>
     </td>
   </tr>
@@ -119,69 +226,19 @@ const oguzhan = {
 
 <br />
 
-```text
-concept  ──►  architecture  ──►  implementation  ──►  validation  ──►  product
+```ts
+const deliveryStandard = {
+  architecture: "clear enough to explain",
+  implementation: "simple enough to maintain",
+  security: "considered before release",
+  quality: "tested beyond the happy path",
+  outcome: "software designed to keep evolving",
+};
 ```
 
 <p align="center">
-  <sub>
-    Built with clarity&nbsp;&nbsp;•&nbsp;&nbsp;Tested beyond the happy path&nbsp;&nbsp;•&nbsp;&nbsp;Designed to evolve
-  </sub>
+  <strong>Complex ideas. Clear systems. Reliable products.</strong>
 </p>
-
----
-
-## `> systems.i_build`
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/FULL--STACK-DIGITAL_PRODUCTS-6D28D9?style=for-the-badge"
-    alt="Full-stack digital products"
-  />
-  <img
-    src="https://img.shields.io/badge/BLOCKCHAIN-ONCHAIN_SYSTEMS-111827?style=for-the-badge"
-    alt="Blockchain and onchain systems"
-  />
-  <img
-    src="https://img.shields.io/badge/BACKEND-SCALABLE_SERVICES-0F766E?style=for-the-badge"
-    alt="Scalable backend services"
-  />
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Product Platforms</h3>
-      <p>
-        User-facing products combining frontend interfaces, APIs,
-        authentication, data models and production workflows.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Blockchain Applications</h3>
-      <p>
-        Applications involving smart contracts, ownership, verification,
-        transactions and onchain product experiences.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Browser Extensions</h3>
-      <p>
-        Browser-native products using content scripts, background workers,
-        local state, messaging and contextual user experiences.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Interactive Systems</h3>
-      <p>
-        Game systems, digital progression, identity flows and products built
-        around active user participation.
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
