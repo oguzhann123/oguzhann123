@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/github-profile-banner.png" width="100%" alt="Oguzhan Kise — Full-Stack Software Engineer" />
+  <img
+    src="./assets/github-profile-banner.png"
+    width="100%"
+    alt="Oguzhan Kose — Full-Stack Software Engineer"
+  />
 </p>
 
 <p align="center">
@@ -45,6 +49,8 @@
   />
 </p>
 
+---
+
 ## `$ whoami`
 
 ```ts
@@ -55,56 +61,58 @@ const oguzhan = {
     "turning complex ideas into understandable systems",
     "choosing maintainability over unnecessary complexity",
     "building beyond the prototype stage",
-    "treating security and usability as core requirements"
+    "treating security and usability as core requirements",
   ],
 
   values: {
     code: "clean and intentional",
     architecture: "practical and scalable",
     products: "useful and reliable",
-    learning: "continuous"
+    learning: "continuous",
   },
 
-  currentMode: "building, testing, refining"
+  currentMode: "building, testing, refining",
 };
 ```
 
----
-
-## `> engineering.loop`
-
-<p align="center">
-  I approach software as a continuous engineering cycle rather than a one-time implementation.
+<p>
+  I approach software as a complete product rather than a collection of
+  disconnected features. I care about clear architecture, reliable execution
+  and systems that can continue evolving without becoming fragile.
 </p>
 
-```mermaid
-flowchart LR
-    A["Discover<br/>Understand the real problem"]
-    B["Design<br/>Define boundaries and architecture"]
-    C["Build<br/>Implement the smallest reliable system"]
-    D["Validate<br/>Test behavior, security and usability"]
-    E["Refine<br/>Improve through real feedback"]
+---
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E -.-> A
-```
+## `> build.scope`
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>◈ Product Thinking</h3>
-      <sub>Technical decisions should support real user and product needs.</sub>
+    <td width="33%" align="center" valign="top">
+      <h3>◈ Product Engineering</h3>
+      <p>
+        <sub>
+          Turning early ideas into complete, practical and production-ready
+          software products.
+        </sub>
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>⬡ System Design</h3>
-      <sub>Clear boundaries keep complex systems understandable and maintainable.</sub>
+    <td width="33%" align="center" valign="top">
+      <h3>⬡ System Architecture</h3>
+      <p>
+        <sub>
+          Designing clear boundaries, reliable data flows and foundations
+          built to scale.
+        </sub>
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>⌁ Reliable Delivery</h3>
-      <sub>Software should remain useful beyond the prototype and demo stage.</sub>
+    <td width="33%" align="center" valign="top">
+      <h3>⌁ Emerging Technology</h3>
+      <p>
+        <sub>
+          Exploring blockchain, distributed systems, interactive applications
+          and new product models.
+        </sub>
+      </p>
     </td>
   </tr>
 </table>
@@ -112,50 +120,101 @@ flowchart LR
 <br />
 
 ```text
-complex idea
-     ↓
-clear problem
-     ↓
-intentional architecture
-     ↓
-tested implementation
-     ↓
-reliable product
+concept  ──►  architecture  ──►  implementation  ──►  validation  ──►  product
 ```
+
+<p align="center">
+  <sub>
+    Built with clarity&nbsp;&nbsp;•&nbsp;&nbsp;Tested beyond the happy path&nbsp;&nbsp;•&nbsp;&nbsp;Designed to evolve
+  </sub>
+</p>
 
 ---
 
-## `> development.activity`
+## `> systems.i_build`
 
 <p align="center">
   <img
-    width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhann123&theme=tokyonight"
-    alt="Oguzhan Kose GitHub contribution overview"
+    src="https://img.shields.io/badge/FULL--STACK-DIGITAL_PRODUCTS-6D28D9?style=for-the-badge"
+    alt="Full-stack digital products"
+  />
+  <img
+    src="https://img.shields.io/badge/BLOCKCHAIN-ONCHAIN_SYSTEMS-111827?style=for-the-badge"
+    alt="Blockchain and onchain systems"
+  />
+  <img
+    src="https://img.shields.io/badge/BACKEND-SCALABLE_SERVICES-0F766E?style=for-the-badge"
+    alt="Scalable backend services"
   />
 </p>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Product Platforms</h3>
+      <p>
+        User-facing products combining frontend interfaces, APIs,
+        authentication, data models and production workflows.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Blockchain Applications</h3>
+      <p>
+        Applications involving smart contracts, ownership, verification,
+        transactions and onchain product experiences.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Browser Extensions</h3>
+      <p>
+        Browser-native products using content scripts, background workers,
+        local state, messaging and contextual user experiences.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interactive Systems</h3>
+      <p>
+        Game systems, digital progression, identity flows and products built
+        around active user participation.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> open.connection`
+
 <p align="center">
-  <img
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oguzhann123&theme=tokyonight"
-    alt="Repositories by language"
-  />
-  <img
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oguzhann123&theme=tokyonight&utcOffset=3"
-    alt="Productive development time"
-  />
+  <a href="https://github.com/oguzhann123?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View projects"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img
+      src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img
+      src="https://img.shields.io/badge/SEND_A_MESSAGE-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Send an email"
+    />
+  </a>
 </p>
 
 <p align="center">
   <sub>
-    Private repositories may contribute to the activity timeline without exposing their source code.
+    Open to ambitious products, difficult engineering problems and meaningful collaborations.
   </sub>
 </p>
 
-
-
+<br />
 
 <p align="center">
   <img
