@@ -3,15 +3,67 @@
 </p>
 
 <p align="center">
-  <a href="https://holvia.xyz"><img src="https://img.shields.io/badge/Holvia-Visit%20Ecosystem-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Holvia" /></a>
-  <a href="https://github.com/oguzhann123?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=oguzhann123&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge" alt="Profile views" />
+  <a href="https://holvia.xyz">
+    <img
+      src="https://img.shields.io/badge/HOLVIA-Explore%20the%20Ecosystem-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Explore Holvia"
+    />
+  </a>
+
+  <a href="https://github.com/oguzhann123?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/PROJECTS-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore GitHub projects"
+    />
+  </a>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=oguzhann123&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Building+security-first+Web3+products;Designing+browser+extensions%2C+wallet+flows+and+onchain+systems;Turning+Holvia+into+a+connected+product+ecosystem" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Full-Stack+Software+Engineer+with+a+strong+focus+on+Web3;Building+dApps%2C+Web3+games+and+blockchain+infrastructure;Designing+scalable+Node.js+backends+and+onchain+systems;Creating+connected+products+across+the+Holvia+ecosystem"
+    alt="Animated introduction"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"
+    alt="Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"
+    alt="Solidity"
+  />
+  <img
+    src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"
+    alt="Rust"
+  />
+  <img
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
+    alt="PostgreSQL"
+  />
+</p>
+
+<br />
+
+<p align="center">
+  <sub>
+    dApps&nbsp;&nbsp;•&nbsp;&nbsp;Web3 Games&nbsp;&nbsp;•&nbsp;&nbsp;Node.js Backends&nbsp;&nbsp;•&nbsp;&nbsp;Smart Contracts&nbsp;&nbsp;•&nbsp;&nbsp;Blockchain Infrastructure
+  </sub>
+</p>
 ---
 
 ## `$ whoami`
