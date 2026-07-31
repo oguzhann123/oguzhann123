@@ -106,11 +106,7 @@ const oguzhan = {
   />
 </p>
 
-<p align="center">
-  <sub>
-    A growing ecosystem of Web3 products, games and browser-based tools.
-  </sub>
-</p>
+
 
 <br />
 
