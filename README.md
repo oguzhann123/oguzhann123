@@ -73,7 +73,6 @@ const oguzhan = {
 I am most interested in the point where an ambitious idea becomes a real product.
 I enjoy solving difficult engineering problems, questioning weak assumptions and building systems that can continue evolving without becoming fragile.
 ---
-
 ## `01 / Selected work`
 
 ```text
