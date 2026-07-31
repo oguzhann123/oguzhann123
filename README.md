@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://holvia.xyz">
-    <img
-      src="https://img.shields.io/badge/HOLVIA-Explore%20the%20Ecosystem-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Explore Holvia"
-    />
-  </a>
-
   <a href="https://github.com/oguzhann123?tab=repositories">
     <img
       src="https://img.shields.io/badge/PROJECTS-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -25,7 +18,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Full-Stack+Software+Engineer+with+a+strong+focus+on+Web3;Building+dApps%2C+Web3+games+and+blockchain+infrastructure;Designing+scalable+Node.js+backends+and+onchain+systems;Creating+connected+products+across+the+Holvia+ecosystem"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Full-Stack+Software+Engineer+with+a+strong+focus+on+Web3;Building+scalable%2C+secure+and+production-ready+software;Turning+complex+ideas+into+reliable+digital+products;Exploring+blockchain%2C+distributed+systems+and+modern+software+architecture"
     alt="Animated introduction"
   />
 </p>
@@ -36,35 +29,22 @@
     alt="TypeScript"
   />
   <img
-    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"
-    alt="Node.js"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"
+    alt="JavaScript"
   />
   <img
-    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"
-    alt="Next.js"
-  />
-  <img
-    src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"
-    alt="Solidity"
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+    alt="Python"
   />
   <img
     src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"
     alt="Rust"
   />
   <img
-    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
-    alt="PostgreSQL"
+    src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"
+    alt="Solidity"
   />
 </p>
-
-<br />
-
-<p align="center">
-  <sub>
-    dApps&nbsp;&nbsp;•&nbsp;&nbsp;Web3 Games&nbsp;&nbsp;•&nbsp;&nbsp;Node.js Backends&nbsp;&nbsp;•&nbsp;&nbsp;Smart Contracts&nbsp;&nbsp;•&nbsp;&nbsp;Blockchain Infrastructure
-  </sub>
-</p>
----
 
 ## `$ whoami`
 
