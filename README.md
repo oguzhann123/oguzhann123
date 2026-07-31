@@ -74,53 +74,107 @@ I am most interested in the point where an ambitious idea becomes a real product
 I enjoy solving difficult engineering problems, questioning weak assumptions and building systems that can continue evolving without becoming fragile.
 ---
 
-## `01 / Holvia ecosystem`
+## `01 / Selected work`
 
 ```text
-                                      ┌─────────────────────────────┐
-                                      │          HOLVIA             │
-                                      │  connected Web3 products    │
-                                      └──────────────┬──────────────┘
-                                                     │
-                 ┌───────────────────┬───────────────┼───────────────┬───────────────────┐
-                 │                   │               │               │                   │
-          ┌──────▼──────┐     ┌──────▼──────┐ ┌──────▼──────┐ ┌──────▼──────────┐
-          │ Holvia Guard│     │ Holvia Veil │ │   Harvest   │ │ Airdrop Center  │
-          │ risk signals│     │ wallet scope│ │ game/access │ │ tasks/identity  │
-          └─────────────┘     └─────────────┘ └─────────────┘ └─────────────────┘
+                         ┌──────────────────────────────┐
+                         │      PRODUCT ENGINEERING     │
+                         │   from concept to production │
+                         └──────────────┬───────────────┘
+                                        │
+              ┌─────────────────────────┼─────────────────────────┐
+              │                         │                         │
+      ┌───────▼────────┐       ┌────────▼────────┐       ┌────────▼────────┐
+      │ Web Platforms  │       │ Blockchain Apps │       │ Developer Tools │
+      │ frontend + API │       │ contracts + UX  │       │ automation + DX │
+      └────────────────┘       └─────────────────┘       └─────────────────┘
 ```
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Holvia Guard</h3>
-      <p>A Chrome-first Web3 security product for suspicious-domain detection, wallet-action observation, approval analysis and contract-risk awareness.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Manifest V3</code> <code>Prisma</code></p>
-      <a href="https://github.com/oguzhann123/holvia-guard"><img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=flat-square&logo=github&logoColor=white" alt="Open Holvia Guard" /></a>
+      <h3>🛡️ Browser Security Extension</h3>
+      <p>
+        A Chrome-first security product designed to detect suspicious domains,
+        observe wallet-related actions and surface transaction or approval risks
+        before users make critical decisions.
+      </p>
+      <p>
+        <code>TypeScript</code>
+        <code>React</code>
+        <code>Manifest V3</code>
+        <code>Next.js</code>
+        <code>PostgreSQL</code>
+      </p>
+      <img
+        src="https://img.shields.io/badge/STATUS-PRIVATE_DEVELOPMENT-6D28D9?style=flat-square"
+        alt="Private development"
+      />
     </td>
+
     <td width="50%" valign="top">
-      <h3>🥷 Holvia Veil</h3>
-      <p>A local-first privacy and wallet-context extension built around profiles, domain mappings, sessions, configurable rules and warning-only soft gates.</p>
-      <p><code>WXT</code> <code>React</code> <code>TypeScript</code> <code>Chrome APIs</code> <code>Wagmi</code></p>
-      <a href="https://github.com/oguzhann123/holvia-veil"><img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=flat-square&logo=github&logoColor=white" alt="Open Holvia Veil" /></a>
+      <h3>🔐 Privacy & Session Extension</h3>
+      <p>
+        A local-first browser extension built around isolated profiles,
+        domain-specific sessions, configurable protection rules and contextual
+        warnings without unnecessary backend dependence.
+      </p>
+      <p>
+        <code>TypeScript</code>
+        <code>React</code>
+        <code>WXT</code>
+        <code>Chrome APIs</code>
+        <code>Indexed Storage</code>
+      </p>
+      <img
+        src="https://img.shields.io/badge/STATUS-CLOSED_BETA-0F766E?style=flat-square"
+        alt="Closed beta"
+      />
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 Holvia Harvest</h3>
-      <p>An onchain farming product with a Base-native game experience, a phased access-pass system and production-oriented mint verification.</p>
-      <p><code>Next.js</code> <code>Solidity</code> <code>Hardhat</code> <code>Base</code> <code>PostgreSQL</code></p>
-      <a href="https://github.com/oguzhann123/holvia-web"><img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=flat-square&logo=github&logoColor=white" alt="Open Holvia Harvest" /></a>
+      <h3>🎮 Onchain Game Platform</h3>
+      <p>
+        A Web3 game platform combining interactive gameplay, blockchain-based
+        ownership, access-pass mechanics and production-oriented transaction
+        verification.
+      </p>
+      <p>
+        <code>TypeScript</code>
+        <code>Solidity</code>
+        <code>Rust</code>
+        <code>Hardhat</code>
+        <code>PostgreSQL</code>
+      </p>
+      <img
+        src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-B45309?style=flat-square"
+        alt="In development"
+      />
     </td>
+
     <td width="50%" valign="top">
-      <h3>🎁 Holvia Airdrop Center</h3>
-      <p>A task, referral, badge and eligibility platform combining social verification, Discord workflows and onchain ownership checks.</p>
-      <p><code>Next.js</code> <code>Prisma</code> <code>OAuth</code> <code>Discord</code> <code>Viem</code></p>
-      <a href="https://github.com/oguzhann123/holvia-center"><img src="https://img.shields.io/badge/OPEN_PROJECT-111827?style=flat-square&logo=github&logoColor=white" alt="Open Holvia Airdrop Center" /></a>
+      <h3>🧩 Identity & Verification Platform</h3>
+      <p>
+        A full-stack platform for tasks, referrals, eligibility, social
+        verification and onchain ownership checks with structured progression
+        and reward workflows.
+      </p>
+      <p>
+        <code>TypeScript</code>
+        <code>Python</code>
+        <code>OAuth</code>
+        <code>PostgreSQL</code>
+        <code>Blockchain APIs</code>
+      </p>
+      <img
+        src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-2563EB?style=flat-square"
+        alt="Active development"
+      />
     </td>
   </tr>
 </table>
-
 ---
 
 ## `02 / Engineering principles`
