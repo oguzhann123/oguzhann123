@@ -135,11 +135,7 @@ const oguzhan = {
   </a>
 </p>
 
-<p align="center">
-  <sub>
-    Open to ambitious products, difficult engineering problems and meaningful collaborations.
-  </sub>
-</p>
+
 
 <br />
 
