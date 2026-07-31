@@ -1,170 +1,315 @@
----
+<p align="center">
 
-<div align="center">
+  <img src="./assets/github-profile-banner.png" width="100%" alt="Oguzhan Kise — Full-Stack Software Engineer" />
 
-## `ENGINEERING PROFILE`
-
-<sub>
-I design software as a complete system — not as a collection of disconnected features.
-</sub>
-
-<br /><br />
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>01</b><br />
-      <strong>UNDERSTAND</strong><br />
-      <sub>Find the real problem</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>02</b><br />
-      <strong>DESIGN</strong><br />
-      <sub>Define clear boundaries</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>03</b><br />
-      <strong>BUILD</strong><br />
-      <sub>Create reliable systems</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>04</b><br />
-      <strong>REFINE</strong><br />
-      <sub>Improve through evidence</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br />
-
-```ts
-class EngineeringMindset {
-  complexity = "reduced through clear boundaries";
-  architecture = "practical, scalable and intentional";
-  code = "written for both execution and understanding";
-  quality = "validated beyond the happy path";
-
-  build(idea: AmbitiousIdea): ReliableProduct {
-    return understand(idea)
-      .then(design)
-      .then(implement)
-      .then(test)
-      .then(refine);
-  }
-}
-```
-
-<br />
-
-<div align="center">
-
-### `What I bring to a product`
-
-</div>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">◈ Product Perspective</h3>
-      <p align="center">
-        Connecting technical decisions with usability, business goals and long-term product direction.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⬡ System Thinking</h3>
-      <p align="center">
-        Designing interfaces, services, data flows and infrastructure as one coherent architecture.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⌁ Execution</h3>
-      <p align="center">
-        Moving from uncertain ideas to tested, maintainable and production-ready software.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-
-```text
-╭──────────────────── CURRENT OPERATING MODE ────────────────────╮
-│                                                                │
-│   INPUT        ambitious ideas                                 │
-│   PROCESS      analyze → architect → build → validate           │
-│   OUTPUT       useful, reliable and maintainable products       │
-│   STANDARD     beyond the prototype                             │
-│                                                                │
-╰────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `DEVELOPMENT SIGNAL`
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhann123&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity"
-  width="100%"
-  alt="Oğuzhan Köse contribution activity"
-/>
-
-<br />
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oguzhann123&theme=tokyonight"
-  alt="GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oguzhann123&theme=tokyonight&utcOffset=3"
-  alt="Productive development time"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## `LET'S CONNECT`
-
-<p>
-  <a href="https://github.com/oguzhann123?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore projects"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img
-      src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img
-      src="https://img.shields.io/badge/START_A_CONVERSATION-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Send an email"
-    />
-  </a>
 </p>
 
+
+
+<p align="center">
+
+  <a href="https://github.com/oguzhann123?tab=repositories">
+
+    <img
+
+      src="https://img.shields.io/badge/PROJECTS-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"
+
+      alt="Explore GitHub projects"
+
+    />
+
+  </a>
+
+
+
+  <img
+
+    src="https://komarev.com/ghpvc/?username=oguzhann123&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"
+
+    alt="Profile views"
+
+  />
+
+</p>
+
+
+
+<p align="center">
+
+  <img
+
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Full-Stack+Software+Engineer+with+a+strong+focus+on+Web3;Building+scalable%2C+secure+and+production-ready+software;Turning+complex+ideas+into+reliable+digital+products;Exploring+blockchain%2C+distributed+systems+and+modern+software+architecture"
+
+    alt="Animated introduction"
+
+  />
+
+</p>
+
+
+
+<p align="center">
+
+  <img
+
+    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
+
+    alt="TypeScript"
+
+  />
+
+  <img
+
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"
+
+    alt="JavaScript"
+
+  />
+
+  <img
+
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+
+    alt="Python"
+
+  />
+
+  <img
+
+    src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"
+
+    alt="Rust"
+
+  />
+
+  <img
+
+    src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"
+
+    alt="Solidity"
+
+  />
+
+</p>
+
+
+
+## `$ whoami`
+
+
+
+```ts
+
+const oguzhan = {
+
+  mindset: "Think deeply. Build clearly. Improve continuously.",
+
+
+
+  engineeringStyle: [
+
+    "turning complex ideas into understandable systems",
+
+    "choosing maintainability over unnecessary complexity",
+
+    "building beyond the prototype stage",
+
+    "treating security and usability as core requirements",
+
+  ],
+
+
+
+  values: {
+
+    code: "clean and intentional",
+
+    architecture: "practical and scalable",
+
+    products: "useful and reliable",
+
+    learning: "continuous",
+
+  },
+
+
+
+  currentMode: "building, testing, refining",
+
+};
+
+```
+
+
+
+---
+
+
+
+## `> system.snapshot`
+
+
+
+<table>
+
+  <tr>
+
+    <td width="33%" align="center">
+
+      <h3>◈ Product Engineering</h3>
+
+      <sub>From early concept to production-ready software</sub>
+
+    </td>
+
+    <td width="33%" align="center">
+
+      <h3>⬡ Blockchain Systems</h3>
+
+      <sub>Onchain logic, applications and infrastructure</sub>
+
+    </td>
+
+    <td width="33%" align="center">
+
+      <h3>⌁ Interactive Experiences</h3>
+
+      <sub>Web platforms, extensions and game systems</sub>
+
+    </td>
+
+  </tr>
+
+</table>
+
+
+
 <br />
 
-> **Interested in ambitious products, difficult engineering problems and ideas worth turning into real systems.**
 
-</div>
+
+```text
+
+┌─ CURRENT SIGNAL ───────────────────────────────────────────────┐
+
+│                                                               │
+
+│  building     reliable products                               │
+
+│  exploring    distributed systems                             │
+
+│  refining     architecture and developer experience           │
+
+│  status       always learning                                  │
+
+│                                                               │
+
+└───────────────────────────────────────────────────────────────┘
+
+```
+
+
+
+---
+
+
+
+## `> contribution.stream`
+
+
+
+<p align="center">
+
+  <img
+
+    src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhann123&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true"
+
+    width="100%"
+
+    alt="Oguzhan Kose contribution activity"
+
+  />
+
+</p>
+
+
+
+---
+
+
+
+## `> open.connection`
+
+
+
+<p align="center">
+
+  <a href="https://github.com/oguzhann123?tab=repositories">
+
+    <img
+
+      src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
+
+      alt="View projects"
+
+    />
+
+  </a>
+
+
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+
+    <img
+
+      src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+
+      alt="Connect on LinkedIn"
+
+    />
+
+  </a>
+
+
+
+  <a href="mailto:YOUR_EMAIL">
+
+    <img
+
+      src="https://img.shields.io/badge/SEND_A_MESSAGE-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
+
+      alt="Send an email"
+
+    />
+
+  </a>
+
+</p>
+
+
+
+<p align="center">
+
+  <sub>Open to ambitious products, engineering challenges and meaningful collaborations.</sub>
+
+</p>
+
+
 
 <br />
+
+
+
+<p align="center">
+
+  <img
+
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:6D28D9,100:111827"
+
+    width="100%"
+
+    alt=""
+
+  />
+
+</p>
