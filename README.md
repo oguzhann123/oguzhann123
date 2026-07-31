@@ -85,13 +85,13 @@ const oguzhan = {
       alt="View projects"
     />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/oguzhan-kose-ab3800240/)">
     <img
       src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Connect on LinkedIn"
     />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:oguzhann.kose@icloud.com">
     <img
       src="https://img.shields.io/badge/SEND_A_MESSAGE-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Send an email"
