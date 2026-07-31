@@ -4,8 +4,6 @@
 
 </p>
 
-
-
 <p align="center">
 
   <a href="https://github.com/oguzhann123?tab=repositories">
@@ -20,135 +18,105 @@
 
   </a>
 
-
-
-  <img
+<img
 
     src="https://komarev.com/ghpvc/?username=oguzhann123&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"
 
     alt="Profile views"
 
-  />
+/>
 
 </p>
 
-
-
 <p align="center">
 
-  <img
+<img
 
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Full-Stack+Software+Engineer+with+a+strong+focus+on+Web3;Building+scalable%2C+secure+and+production-ready+software;Turning+complex+ideas+into+reliable+digital+products;Exploring+blockchain%2C+distributed+systems+and+modern+software+architecture"
 
     alt="Animated introduction"
 
-  />
+/>
 
 </p>
 
-
-
 <p align="center">
 
-  <img
+<img
 
     src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
 
     alt="TypeScript"
 
-  />
+/>
 
-  <img
+<img
 
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"
 
     alt="JavaScript"
 
-  />
+/>
 
-  <img
+<img
 
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
 
     alt="Python"
 
-  />
+/>
 
-  <img
+<img
 
     src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"
 
     alt="Rust"
 
-  />
+/>
 
-  <img
+<img
 
     src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"
 
     alt="Solidity"
 
-  />
+/>
 
 </p>
 
-
-
 ## `$ whoami`
 
-
-
 ```ts
-
 const oguzhan = {
-
   mindset: "Think deeply. Build clearly. Improve continuously.",
 
-
-
   engineeringStyle: [
-
     "turning complex ideas into understandable systems",
 
     "choosing maintainability over unnecessary complexity",
 
     "building beyond the prototype stage",
 
-    "treating security and usability as core requirements",
-
+    "treating security and usability as core requirements"
   ],
 
-
-
   values: {
-
     code: "clean and intentional",
 
     architecture: "practical and scalable",
 
     products: "useful and reliable",
 
-    learning: "continuous",
-
+    learning: "continuous"
   },
 
-
-
-  currentMode: "building, testing, refining",
-
+  currentMode: "building, testing, refining"
 };
-
 ```
-
-
 
 ---
 
-
-
 ## `> system.snapshot`
-
-
 
 <table>
 
@@ -182,11 +150,7 @@ const oguzhan = {
 
 </table>
 
-
-
 <br />
-
-
 
 ```text
 
@@ -208,19 +172,13 @@ const oguzhan = {
 
 ```
 
-
-
 ---
-
-
 
 ## `> contribution.stream`
 
-
-
 <p align="center">
 
-  <img
+<img
 
     src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhann123&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true"
 
@@ -228,19 +186,13 @@ const oguzhan = {
 
     alt="Oguzhan Kose contribution activity"
 
-  />
+/>
 
 </p>
 
-
-
 ---
 
-
-
 ## `> open.connection`
-
-
 
 <p align="center">
 
@@ -256,8 +208,6 @@ const oguzhan = {
 
   </a>
 
-
-
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 
     <img
@@ -269,8 +219,6 @@ const oguzhan = {
     />
 
   </a>
-
-
 
   <a href="mailto:YOUR_EMAIL">
 
@@ -286,23 +234,17 @@ const oguzhan = {
 
 </p>
 
-
-
 <p align="center">
 
-  <sub>Open to ambitious products, engineering challenges and meaningful collaborations.</sub>
+<sub>Open to ambitious products, engineering challenges and meaningful collaborations.</sub>
 
 </p>
 
-
-
 <br />
-
-
 
 <p align="center">
 
-  <img
+<img
 
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:6D28D9,100:111827"
 
@@ -310,6 +252,6 @@ const oguzhan = {
 
     alt=""
 
-  />
+/>
 
 </p>
