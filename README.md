@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/holvia-profile-banner.svg" width="100%" alt="Oğuzhan Köse — Full-Stack Web3 Engineer" />
+  <img src="./assets/github-profile-banner.png" width="100%" alt="Oguzhan Kise — Full-Stack Software Engineer" />
 </p>
 
 <p align="center">
