@@ -50,27 +50,28 @@
 
 ```ts
 const oguzhan = {
-  role: "Full-Stack Web3 Engineer",
-  building: "Holvia",
-  approach: [
-    "security-first",
-    "local-first where it matters",
-    "production-oriented architecture",
-    "clear product boundaries",
+  mindset: "Think deeply. Build clearly. Improve continuously.",
+
+  engineeringStyle: [
+    "turning complex ideas into understandable systems",
+    "choosing maintainability over unnecessary complexity",
+    "building beyond the prototype stage",
+    "treating security and usability as core requirements",
   ],
-  focus: [
-    "browser extensions",
-    "wallet infrastructure",
-    "transaction-risk awareness",
-    "digital identity and verification",
-    "onchain applications",
-  ],
-  networks: ["Ethereum", "Base", "Solana"],
+
+  values: {
+    code: "clean and intentional",
+    architecture: "practical and scalable",
+    products: "useful and reliable",
+    learning: "continuous",
+  },
+
+  currentMode: "building, testing, refining",
 };
 ```
 
-I build Web3 products that connect **security, identity, wallet UX and onchain infrastructure** into practical user experiences. My current work is centered around the **Holvia ecosystem**: a group of products with different responsibilities but a shared engineering direction.
-
+I am most interested in the point where an ambitious idea becomes a real product.
+I enjoy solving difficult engineering problems, questioning weak assumptions and building systems that can continue evolving without becoming fragile.
 ---
 
 ## `01 / Holvia ecosystem`
