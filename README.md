@@ -1,95 +1,59 @@
-<h1 align="center">Hi, I'm Oğuzhan Köse 👋</h1>
+<!-- Animated header -->
 
-<h3 align="center">
-  Full-Stack Web3 Developer building secure blockchain products
-</h3>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:5b21b6,100:06b6d4&text=Oğuzhan%20Köse&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Web3%20Engineer%20%E2%80%A2%20Building%20Holvia&descAlignY=58&descSize=18&animation=fadeIn"
+/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/YOUR_X_USERNAME">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" />
-  </a>
-  <a href="https://holvia.xyz">
-    <img src="https://img.shields.io/badge/Holvia-Website-7C3AED?style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
 
----
-
-## About Me
-
-I'm a Full-Stack Web3 Developer focused on building secure, scalable,
-and production-oriented blockchain applications.
-
-- Building the **Holvia ecosystem**
-- Working with **Ethereum, Base and Solana**
-- Developing browser extensions, wallets and onchain applications
-- Interested in wallet security, transaction risk and digital identity
-- Computer Science graduate
-- Based in Europe
-
-## Current Projects
-
-### 🛡️ Holvia Guard
-
-A Chrome-first Web3 security extension that detects suspicious dApps,
-wallet actions, approvals and contract risks.
-
-`TypeScript` `React` `Next.js` `Prisma` `PostgreSQL` `Manifest V3`
-
-### 🌾 Holvia Harvest
-
-An onchain farming game and non-transferable NFT access system built
-for the Base ecosystem.
-
-`Next.js` `Solidity` `Hardhat` `Base` `PostgreSQL`
-
-### 🎁 Holvia Airdrop Center
-
-A task, referral, badge and eligibility platform supporting social,
-Discord and onchain verification flows.
-
-`Next.js` `Prisma` `OAuth` `Discord` `Viem`
-
-## Tech Stack
-
-<p align="center">
+<a href="https://git.io/typing-svg">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,prisma,solidity,rust,docker,git,github"
-    alt="Technology stack"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+secure+Web3+products;Browser+extensions+%E2%80%A2+Wallet+security+%E2%80%A2+Onchain+systems;TypeScript+%E2%80%A2+Solidity+%E2%80%A2+Rust+%E2%80%A2+Next.js"
+    alt="Typing animation"
   />
-</p>
+</a>
 
-## GitHub Activity
+<br />
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub statistics"
-  />
+<a href="https://holvia.xyz">
+  <img src="https://img.shields.io/badge/Holvia-Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"
-    alt="Most used languages"
-  />
-</p>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## What I'm Working On
+<a href="https://x.com/YOUR_X_USERNAME">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-- Browser-extension-based Web3 security
-- Isolated wallet and session architectures
-- Transaction and approval risk detection
-- Onchain game infrastructure
-- Multichain identity and verification systems
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## Contact
+</div>
 
-For Web3 development, collaborations and engineering opportunities:
+<br />
 
-- Website: https://holvia.xyz
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+## `> whoami`
+
+```ts
+const oguzhan = {
+  role: "Full-Stack Web3 Engineer",
+  ecosystem: "Holvia",
+  focus: [
+    "Web3 security",
+    "Browser extensions",
+    "Wallet infrastructure",
+    "Onchain applications",
+    "Digital identity",
+  ],
+  networks: ["Ethereum", "Base", "Solana"],
+  currentlyBuilding: [
+    "Holvia Guard",
+    "Holvia Harvest",
+    "Holvia Veil",
+    "Holvia Airdrop Center",
+  ],
+};
