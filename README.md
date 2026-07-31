@@ -70,84 +70,89 @@ const oguzhan = {
 };
 ```
 
-## `01 / What I Build`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK-PRODUCTS-6D28D9?style=for-the-badge" alt="Full-stack products" />
-  <img src="https://img.shields.io/badge/WEB3-ONCHAIN_SYSTEMS-111827?style=for-the-badge" alt="Onchain systems" />
-  <img src="https://img.shields.io/badge/ENGINEERING-PRODUCTION_READY-0F766E?style=for-the-badge" alt="Production-ready engineering" />
-</p>
-
-<p align="center">
-  I turn complex ideas into secure, scalable and production-ready digital products.
-</p>
-
-<p align="center">
-  <sub>
-    Product thinking&nbsp;&nbsp;•&nbsp;&nbsp;Clean architecture&nbsp;&nbsp;•&nbsp;&nbsp;Reliable execution
-  </sub>
-</p>
-
 ---
 
-## `02 / Technology`
+## `> system.snapshot`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,solidity" alt="Programming languages" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>◈ Product Engineering</h3>
+      <sub>From early concept to production-ready software</sub>
+    </td>
+    <td width="33%" align="center">
+      <h3>⬡ Blockchain Systems</h3>
+      <sub>Onchain logic, applications and infrastructure</sub>
+    </td>
+    <td width="33%" align="center">
+      <h3>⌁ Interactive Experiences</h3>
+      <sub>Web platforms, extensions and game systems</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <code>TypeScript</code>
-  <code>JavaScript</code>
-  <code>Python</code>
-  <code>Rust</code>
-  <code>Solidity</code>
-</p>
-
----
-
-## `03 / Engineering Style`
+<br />
 
 ```text
-idea  →  architecture  →  implementation  →  testing  →  production
+┌─ CURRENT SIGNAL ───────────────────────────────────────────────┐
+│                                                               │
+│  building     reliable products                               │
+│  exploring    distributed systems                             │
+│  refining     architecture and developer experience           │
+│  status       always learning                                  │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+## `> contribution.stream`
+
 <p align="center">
-  Security by design · Clear system boundaries · Maintainable code · Practical solutions
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhann123&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Oguzhan Kose contribution activity"
+  />
 </p>
 
 ---
 
-## `04 / GitHub Activity`
-
-<div align="center">
-  <img
-    width="94%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzhann123&theme=tokyonight"
-    alt="GitHub profile activity"
-  />
-</div>
-
----
-
-## `05 / Connect`
+## `> open.connection`
 
 <p align="center">
   <a href="https://github.com/oguzhann123?tab=repositories">
     <img
-      src="https://img.shields.io/badge/PROJECTS-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore projects"
+      src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View projects"
     />
   </a>
 
-  <a href="https://holvia.xyz">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img
-      src="https://img.shields.io/badge/WEBSITE-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Visit website"
+      src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img
+      src="https://img.shields.io/badge/SEND_A_MESSAGE-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Send an email"
     />
   </a>
 </p>
 
 <p align="center">
-  <b>Building software that is designed to last beyond the prototype.</b>
+  <sub>Open to ambitious products, engineering challenges and meaningful collaborations.</sub>
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:6D28D9,100:111827"
+    width="100%"
+    alt=""
+  />
 </p>
